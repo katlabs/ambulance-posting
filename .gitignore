@@ -1,2 +1,5 @@
-data/C1L6TY-6.csv
+data/*
+cache/*
 .*
+!/.gitignore
+!data/cincinnati_census_tracts/
